@@ -1,0 +1,5 @@
+{
+    "require": {
+        "getkirby/toolkit": "^2.4"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "a9afce9c1c631e4fa29d0d45eae81835",
+    "content-hash": "7270bbb7215890a3c5a791d97923f5a5",
+    "packages": [
+        {
+            "name": "getkirby/toolkit",
+            "version": "2.4.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/getkirby/toolkit.git",
+                "reference": "97ec59f2ccdac789f15188bfbd67e2484beca3f6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/getkirby/toolkit/zipball/97ec59f2ccdac789f15188bfbd67e2484beca3f6",
+                "reference": "97ec59f2ccdac789f15188bfbd67e2484beca3f6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bastian Allgeier",
+                    "email": "bastian@getkirby.com",
+                    "homepage": "http://bastianallgeier.com"
+                }
+            ],
+            "description": "The Kirby 2 toolkit is a set of handy classes and helpers which make your life with PHP easier.",
+            "homepage": "http://toolkit.getkirby.com",
+            "keywords": [
+                "toolkit"
+            ],
+            "time": "2016-12-11 12:08:36"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
